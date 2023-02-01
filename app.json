@@ -13,27 +13,27 @@
     "env": {
         "APP_ID": {
             "description": "ايبي ايدي",
-            "value": "9514755",
+            "value": "20951792",
             "required": true
         },
         "APP_HASH": {
             "description": "ايبي هاش",
-            "value": "40e7041d06ea7b6ee1cf39b3188b3452",
+            "value": "3cd2ed9fe02fa4b375a5b89883afb8bd",
             "required": true
         },
         "TERMUX": {
             "description": "كود تيرمكس",
-            "value": "",
+            "value": "1BJWap1wBu2D70hlZnQobPN7up4qcnevkYTXgACFqm4myhQqV25JvLtXMAL8tLZ-okorzD0VCraqpKL0OTy6gqrFDDFWynoGN4LHEkkCS3hlmy4kEC4C8rtvUsGMg9QoUVNVmBhwTNmUIKhkHSnVi5qykQ_nadS_o433Ir7DFz6gnad--8jvgbyIQlzPAIpVUk-4GGqJl2VH8JMQ-eldP4SF_MLod4jQnBlfe0MiQUBs2AmV7KwQ5C0qv2Q7SPOfLaWv4coda0qpzbd_CJzze9_nUFoEbib4WifeoFsVZYHa1TFcYQnb-q0-gEVRVVHrIuZvusxx1N-4UAYrNMZVHUycITOEiVcA=",
             "required": true
         },
         "TOKEN": {
             "description": "توكن البوت",
-            "value": "",
+            "value": "5820280799:AAFbnl0aDWB1lEkliBpi3f388vN5MF9msKA",
             "required": true
         },
         "BOT_USERNAME": {
             "description": "يوزر البوت بدون ـ@ـ",
-            "value": "",
+            "value": "Hdkidiidjdbot",
             "required": true
         }
     }
